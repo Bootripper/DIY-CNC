@@ -14,3 +14,16 @@ Mini Servo Motor
 
 2x DVD/CD Drives
 
+software downloading link
+
+1.Arduino
+https://www.arduino.cc/en/Main/Software
+
+
+2.Processing
+http://download.processing.org/processing-3.2.1-windows64.zip
+
+
+3.inkspace
+https://inkscape.org/en/download/
+ **Note download only Inkscape 0.48.5 version otherwise GCTRL programme don't run
