@@ -4,7 +4,7 @@ For this project you will need:
 
 Part list for beginners:
 
-Arduino uno
+Arduino Micro 
 
 Breadboard
 
